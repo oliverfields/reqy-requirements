@@ -1,0 +1,3 @@
+Description: Each approved requirement must be linked to at least one test case.
+Rationale: To prove each approved requirement exists in finished system each requirement must be verified to exist and work, this means there must be at least one test case for each requirement.
+Status: approved

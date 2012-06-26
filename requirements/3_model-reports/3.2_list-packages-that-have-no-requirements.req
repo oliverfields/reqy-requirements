@@ -1,0 +1,3 @@
+Description: Show requirement packages that have no requirements.
+Rationale: A packege only makes sense if it has requirements to be met.
+Status: approved

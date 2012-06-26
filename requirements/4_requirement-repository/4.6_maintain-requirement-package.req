@@ -1,0 +1,3 @@
+Description: Must be able to maintain key-values for requirement packages.
+Rationale: Need to store this information.
+Status: approved

@@ -1,0 +1,3 @@
+Description: Find all broken dependencies.
+Reationale: Broken dependencies could mean a user error or a previos requirment has been deleted, regardless it must be fixed.
+Status: approved

@@ -1,0 +1,3 @@
+Description: Must be able to use off the shelf version control.
+Rationale: In keeping with unix one tool one purpose, the Application has focus on being good at requirements management, version control is a different beast.
+Status: approved

@@ -1,0 +1,4 @@
+Description: Must provide command line tool for working with the requirements repository.
+Rationale: Command line rules!
+Status: approved
+Design document: 'reqy - command line interface.odt'

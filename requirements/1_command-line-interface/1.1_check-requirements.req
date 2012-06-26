@@ -1,0 +1,4 @@
+Description: Must be able to run check of requirements from command line and show any warnings or errors.
+Rationale: Need to ensure requirements are sound.
+Status: elaboration
+Depends on: '2.1_run-time-checks'

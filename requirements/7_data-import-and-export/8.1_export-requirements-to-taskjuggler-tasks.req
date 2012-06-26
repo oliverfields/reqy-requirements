@@ -1,0 +1,4 @@
+Description: Requirements and package hiearchy must be exportable as Task Juggler tasks and sub tasks.
+Rationale: Requirements sole purpose is to guide a project, however scheduling the project is not a task for the requirements management tool, this is better done by specialized applications such as Task Juggler.
+Status: postponed
+Status reason: Not critical at this stage.

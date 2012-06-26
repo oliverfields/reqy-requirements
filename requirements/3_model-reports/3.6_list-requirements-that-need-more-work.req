@@ -1,0 +1,3 @@
+Description: List requirements that have status elaboration.
+Rationale: Users need ability to identify which requirements or packages need more work.
+Status: approved

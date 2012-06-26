@@ -1,0 +1,4 @@
+Description: Document describing requirements must be generatable from repository.
+Rationale: Need to share information from the repository with others that will need it in a easy to understand format.
+Status: approved
+Design documents: 'rmtoo_requirement_report.pdf'

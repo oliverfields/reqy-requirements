@@ -1,0 +1,3 @@
+Description: Prefer conventsion over configuration.
+Rationale: The application should be opinionated and make as many assumptions as possible without loosing flexibility, this will save time spesifiying and configuring.
+Status: approved

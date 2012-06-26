@@ -1,0 +1,3 @@
+Description: Must enforce that obligatory key-values pairs exist, warn on unknown keys and check valid values.
+Rationale: Syntax check to allow warning and errors.
+Status: approved

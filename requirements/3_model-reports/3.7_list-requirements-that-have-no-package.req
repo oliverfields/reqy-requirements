@@ -1,0 +1,4 @@
+Description: List requirements that have no packages.
+Rationale: All requirements must belong to a package.
+Status: rejected
+Reject reason: File system ensures no requirement can exist outside of a package.

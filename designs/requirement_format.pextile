@@ -1,0 +1,86 @@
+h1 File format specification for reqman requirements
+
+The requirements management tool Reqman stores requirements as files in a directory hierarchy which is described in this document.
+
+
+h2 Overview
+
+Requirements are stored as plain text files, optionally grouped into requirements packages using regular file system directories. All requirements are stored under the **requirements** directory.
+
+h2 Requirements
+
+Each requirement is stored in it's own file and contains name-value pairs describing the requirements properties and relationships. The requirement is intended to be brief and describe on a high level what is needed, implementation details, test cases and detailed design documentation meant to be referenced in other documents.
+
+h3 Naming convention
+
+Requirements files are named as**[id]_[short name].req**, where **[id]_** is an optional reference and **[short name]** is best thought of as a terse description of the requirement. The file name may contain letters (upper- or lowercase), numbers, underscores(_), hyphens(-) and periods(.).
+
+The prefix **[id]_** is optional, but can be handy for reference purposes and describing what package the requirement belongs to.
+
+A requirement could be for example **1.1_the-product-must-work-under-water.req**.
+
+h3 Requirement file format
+
+The requirement file consists of key value pairs in the form **[key]:[value]**. White space between the key, colon and value is ignored. Keys are case insensitive. All values must be on same line (no line breaks).
+
+% Key % Value % Required % Note %
+| Assigned on | __Date (yyyy-mm-dd)__ | No | The date format is not configurable | 
+| Assigned to | [user] | No | The user that is responsible for the requirement, must be a valid user defined in the configuration |
+| Created by | [user] | No | The user that created the requirement, must be a valid user defined in the configuration |
+| Created on | __Date (yyyy-mm-dd)__ | No | The date format is not configurable | 
+| Description | __String__ | Yes | Describe what is required, but not intended for describing how the requirement will be met, that is to be done in a separate design document |
+| Depends on | [link list] or **none** | No | See below for explanation of <link list> | 
+| Design documents | [link list] or **none** | No | See below for explanation of <link list> | 
+| Estimated effort | [duration] | No | Estimated duration of work for one person to complete, can be either hours or days, e.g. 24h or  1d |
+| Estimated cost | __Integer__ | No | Estimated cost to complete requirement |
+| Note | __String__ | No | Supplemental information |
+| Rationale | __String__ | Yes | Reason for requirement |
+| Rejected by | [user] | No | User that rejected requirement, must be valid user defined in the configuration |
+| Status | [status code] | Yes | See below for list of status codes |
+| Status reason | __String__ | Yes, except is status **approved** or **elaboration** | Explanation why requirement has a given status |
+| Test cases | [link list] or **none** | No | See below for explanation of <link list> | 
+| Todo | __String__ | No | There may be more than one to-dos defined |
+
+h3 Link lists
+
+The keys **Depends on**, **Design documents** and **Test cases** all accept a comma separated list of links to the respective files, alternatively the value **none** may be used to explicitly state that there are no links.
+
+All link references must be relative to their respective top level directory, either **requirements**, **test-cases** or **designs**. E.g. a valid **Depends on** list could be **1_serve-content/1.1_use-http-protocol, 1_serve-content/1.2_maintain-htaccess-compatability**, where both requirements must be in the **requirements/1_serve-content** directory. Links to file names that contain spaces must be quoted using single or double quotes.
+
+notice The directory separator is always forward slash(/) regardless of host operating system.
+
+h3 Status codes
+
+A requirement may have the following status codes.
+
+% Code % Description %
+| elaboration | Not fully specified/missing information, needs more work |
+| rejected | Will not be implemented |
+| approved | Will be implemented |
+| postponed | May be implemented at later date |
+
+h3 Example
+
+The following is an example of the requirement **requirements/1_serve-content/1.1_use-http-protocol**.
+
+> Assigned on: 2012-06-24
+> Assigned to: mr-pink
+> Created by: mr-black
+> Created on: 2012-06-02
+> Depends on: 2_web-server-core, 3_network-connectivity/3.1_tcp-ip-support
+> Design documents: 'system overview.uml', 'network interface.doc'
+> Test cases: tc-144.xls, tc-145.xls
+> Description: The web server must communicate using the HTTP protocol.
+> Rationale: HTTP is standard requirement for a web server.
+> Note: Support for ipv6 is not required.
+> Status: elaboration
+> Todo: Check that SSL support is not required
+> Todo: Link to HTTP specification
+
+
+h2 Requirement package
+
+Requirements may be divided into packages for easing understanding and breaking them into bite size chunks. A requirements package is simply a directory that contains requirements or other requirements packages. A package can contain key/value settings, the settings are stored in a file called 'attributes.pkg' in the package directory. The key/value settings are equivalent to those used for requirements and naming convention is the same, except packages do not have a '.req' suffix.
+
+
+

@@ -1,0 +1,4 @@
+Description: Must be able to search repository by key values.
+Rationale: Makes finding requirements easier.
+Status: postponed
+Status reason: Can do this to an extent with regular linux tools.
