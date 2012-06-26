@@ -1,3 +1,4 @@
 Description: Compute and display cost and effort estimations for each requirement and package.
 Rationale: Required information for estimating project costs.
 Status: approved
+Design documents: 'Report formats.odt'
