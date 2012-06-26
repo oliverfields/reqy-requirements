@@ -1,4 +1,4 @@
 reqy
 ====
 
-Requirement management command line tool
+Requirements for requirement management command line tool reqy (coming soon).

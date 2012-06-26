@@ -1,3 +1,4 @@
 Description: There can be no cyclic dependencies among requirements.
 Rationale: It would be a logical error if two requirements depended on each other, this must be flagged so it can be fixed.
 Status: approved
+Design documents: 'reqy - command line interface.odt'
