@@ -2,3 +2,4 @@ Description: Must provide command line tool for working with the requirements re
 Rationale: Command line rules!
 Status: approved
 Design document: 'reqy - command line interface.odt'
+Use cases: 'UC-1 Overview.dia', 'UC-1-1 Maintain requirements.dia'
