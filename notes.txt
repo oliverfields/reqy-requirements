@@ -1,0 +1,13 @@
+- Conflics should be documented (those concerned, what, alternatives and the reason a resulution was approved)? Perhaps change management?
+- Requirements should have necessety status, i.e. must, should or could be included?
+- Views - filter requirements, e.g. all requirements dependent on a document?
+
+Tool requirements according to IREB:
+- manage various information
+- manage logical relationships between information
+- identfy artifacts uniquely
+- make information accessible flexibly and securely
+- support views over the data
+- organize information
+- generate reports
+- generate documents
