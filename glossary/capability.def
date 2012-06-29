@@ -1,0 +1,2 @@
+Term: Capability
+Definition: Define what the project must deliver. What done looks like. The "home" or "reason" for requirements. Capabilities are not explicitly defined in the repository, instead they are identified by wording and placement in requirement hiearchy. They are technically the same as a requirement package.

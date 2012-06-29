@@ -1,0 +1,2 @@
+Term: Requirements repository
+Definition: Stores all required documentation to track and manage requirements. The repository is file and directory based. It is intended to be human readable and maintainable without a tool (though that would be cumbersome).

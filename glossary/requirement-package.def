@@ -1,0 +1,2 @@
+Term: Requirement package
+Definition: Collection of requirements, used to logically group. Commonly the top most packages define what capabilities and the lower packages in the hierarchy define the requirements.
