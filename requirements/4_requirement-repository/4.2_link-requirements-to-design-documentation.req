@@ -1,3 +1,4 @@
 Description: Requirements must be linked to design documents.
 Rationale: Must be able to trace design to requirements.
-Status: approved
+Status: rejected
+Status reason: Not all requirements (or packages) have supporting documentation. Use reports to uncover which requirements do not have documentation and add links where appropriate.

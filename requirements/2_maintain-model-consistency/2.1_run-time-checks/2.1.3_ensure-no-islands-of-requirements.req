@@ -1,4 +1,5 @@
 Description: All requirements must have a path to the root requirement.
 Rationale: If a requirement does not trace back to the root requirement than it is superflous and should either be rejected or made to link into the other requirements.
-Status: approved
+Status: signed-off
+Status reason: Storing requirements in the requirements directory as files and directories means this is enforced by the file system (i.e. can't hava a file/dir that does not belong to a directory)
 Design documents: 'reqy - command line interface.odt'

@@ -1,3 +1,4 @@
 Description: A requirement or package must be assignable to a user.
 Rationale: Important to know who is responsible for a requirement on larger projects.
-Status: later 
+Status: signed-off
+Status reason: Requirement met

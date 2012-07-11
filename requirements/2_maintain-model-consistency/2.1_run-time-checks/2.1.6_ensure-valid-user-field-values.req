@@ -1,4 +1,5 @@
 Description: Must enforce that obligatory key-values pairs exist, warn on unknown keys and check valid values.
 Rationale: Syntax check to allow warning and errors.
-Status: approved
+Status: signed-off
+Status reason: Signed off for same reason as 2.1.4_ensure-valid-requirement-package-field-values
 Design documents: 'reqy - command line interface.odt', 'requirement_format.odt'

@@ -7,6 +7,5 @@ Depends: none
 Design documents: 'requirement_format.pextile'
 Note: Use of plain text files will add some limitations to data entry, but facilitate ease of use from command line, data management and version control.
 Rationale: A requirement management system needs to store information about it's requirements.
-Status: elaborate
-Test cases: none
-Todo: Specify dependencies
+Status: signed-off
+Status reason: Verified and implemented.

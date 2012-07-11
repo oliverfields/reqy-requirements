@@ -1,3 +1,4 @@
 Description: Requirements and packages must be stored in a manner that is reasonably easy to understand.
 Rationale: In case of desire or need to manage requirements without tool, the repository should be understandable by manual inspection.
 Status: approved
+Approved by: oliver

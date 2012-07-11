@@ -1,4 +1,5 @@
 Description: All requirements and required documentation for the project will be stored in a repository.
 Rationale: Requirements must be traceable and documented. To track the dependencies amongst the requirements and their supporting documents a repository is necassary.
 Status: approved
+Approved by: testuser
 Design document: 'Repository structure.odt', 'class_diagram.dia', 'object_diagram.dia'

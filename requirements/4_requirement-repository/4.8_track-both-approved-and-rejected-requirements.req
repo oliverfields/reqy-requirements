@@ -1,3 +1,4 @@
 Description: Must track all requirements and packages even if rejected or otherwise not approved.
 Rationale: Rejected requirements and their reason for rejection are important to retain, so that if they are suggested later they can be looked up and explained why they where not included.
 Status: approved
+Approved by: testuser

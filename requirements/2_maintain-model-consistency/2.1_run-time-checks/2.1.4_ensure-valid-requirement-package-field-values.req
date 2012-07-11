@@ -1,4 +1,7 @@
-Description: Must enforce that obligatory key-values pairs exist, warn on unknown keys and check valid values.
-Rationale: Syntax check to allow warning and errors.
-Status: approved
+Description: Must enforce that obligatory key-values pairs exist and check valid values.
+Rationale: Halt on errors and require user to fix them
+Status: signed-off
+Status reason: All relevant classes comply
+Note:
+  - Changed from lenient warn and flag errors, to strict halt on errors to simplify and catch errors as early as possible.
 Design documents: 'reqy - command line interface.odt'
