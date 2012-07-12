@@ -1,0 +1,2 @@
+Description: Command must be run from the root repository directory or in a sub directory of the root, just like git can.
+Rationale: Whilst working on the repository will be within it's directories and would be a hassel to cd back to root to run commands.
