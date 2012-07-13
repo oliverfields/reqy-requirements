@@ -2,4 +2,4 @@ Description: Requirements must be stored in plain text files and directories.
 Rationale: Regular files are portable, maintainable from command line tools and work with off the shelf version control tools. Requirements repository can deployed and maintained along side regular code base, close to developers.
 Status: approved
 Approved by: oliver
-Design documents: 'Repository structure.odt'
+Documents: design/Repository structure.odt

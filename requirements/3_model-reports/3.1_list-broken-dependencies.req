@@ -1,4 +1,5 @@
 Description: Find all broken dependencies.
-Reationale: Broken dependencies could mean a user error or a previos requirment has been deleted, regardless it must be fixed.
+Rationale: Broken dependencies could mean a user error or a previos requirment has been deleted, regardless it must be fixed.
 Status: approved
-Design documents: 'Report formats.odt'
+Approved by: oliver
+Documents: design/Report formats.odt

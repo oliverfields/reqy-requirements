@@ -1,4 +1,4 @@
 Description: Generate requirements tracebility matrix showing how each requirement relates to test cases and design documentation.
 Rationale: To prove all requirements are built each requirement must have a test case. To ensure each requirement has been designed (i.e. no gold plating) each requirement must have at least one design document.
-Status: approved
-Design documents: 'Requirement traceability matrix.odf'
+Status: implementation
+Documents: design/Requirement traceability matrix.odf

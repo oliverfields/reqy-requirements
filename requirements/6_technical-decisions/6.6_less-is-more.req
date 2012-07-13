@@ -2,3 +2,4 @@ Description: The application must do the bare minimum.
 Rationale: The application should be focused on solving problems directly involved in requirements management.
 Status: rejected
 Status reason: This is a desicsion that is defined in the Technical design specification
+Rejected by: oliver

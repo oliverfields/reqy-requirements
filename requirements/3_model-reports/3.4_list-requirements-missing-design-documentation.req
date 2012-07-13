@@ -1,4 +1,5 @@
 Description: Show requirements that have no design documents.
 Rationale: All requirements must be designed.
 Status: approved
-Design documents: 'Report formats.odt'
+Approved by: oliver
+Documents: design/Report formats.odt

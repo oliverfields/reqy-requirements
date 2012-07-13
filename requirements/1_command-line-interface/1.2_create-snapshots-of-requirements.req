@@ -1,2 +1,5 @@
+Description: Provide full version control of repository
+Rationale: Anything less would be irresponsible
 Status: rejected
-Status reason: Version control not part of project
+Status reason: Version control not part of project, it is better handled by a specialized tool
+Rejected by: oliver

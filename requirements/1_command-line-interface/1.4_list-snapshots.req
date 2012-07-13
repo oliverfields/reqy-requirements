@@ -2,3 +2,4 @@ Description: Must be able to take snapshots/baseline of requirements at given po
 Rationale: Important to be able to compare snapshots to understand what has happend and why.
 Status: rejected
 Status reason: Version control not part of project
+Rejected by: oliver

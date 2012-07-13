@@ -3,9 +3,9 @@ Assigned to: oliver
 Created by: oliver
 Created on: 2012-06-24
 Description: Allow users to record requirements with their attributes and links to related documentation in plain text files.
-Depends: none
-Design documents: 'requirement_format.pextile'
+Depends on: none
 Note: Use of plain text files will add some limitations to data entry, but facilitate ease of use from command line, data management and version control.
 Rationale: A requirement management system needs to store information about it's requirements.
-Status: signed-off
+Status: approved
+Approved by: oliver
 Status reason: Verified and implemented.

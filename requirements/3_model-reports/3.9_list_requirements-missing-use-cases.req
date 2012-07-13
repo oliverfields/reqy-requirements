@@ -1,4 +1,5 @@
 Description: List requirments missing use cases.
 Rationale: Final system must have use cases to help test that all requirements have been met.
 Status: approved
-Design documents: 'Report formats.odt', 'Time and cost report.odt'
+Approved by: oliver
+Documents: design/Report formats.odt, design/Time and cost report.odt

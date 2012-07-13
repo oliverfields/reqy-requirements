@@ -1,4 +1,5 @@
 Description: List requirments missing test cases.
 Rationale: Final system must have tests to show all requirements have been met.
 Status: approved
-Design documents: 'Report formats.odt'
+Approved by: oliver
+Documents: design/Report formats.odt

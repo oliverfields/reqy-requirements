@@ -1,4 +1,5 @@
 Description: List requirements that have no parents.
 Rationale: No point making requirements that have no parents.
 Status: rejected
-Reject reason: Because requirements are in a file system hiearchy no requirements can be orphans.
+Status reason: Because requirements are in a file system hiearchy no requirements can be orphans.
+Rejected by: oliver

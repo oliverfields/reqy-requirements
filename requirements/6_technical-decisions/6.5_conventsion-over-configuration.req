@@ -2,3 +2,4 @@ Description: Prefer conventsion over configuration.
 Rationale: The application should be opinionated and make as many assumptions as possible without loosing flexibility, this will save time spesifiying and configuring.
 Status: rejected
 Status reason: This is a desicsion that is defined in the Technical design specification
+Rejected by: oliver

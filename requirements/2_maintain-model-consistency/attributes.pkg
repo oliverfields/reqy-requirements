@@ -1,4 +1,5 @@
 Description: Measures to take to ensure repository is consistent (no syntax or broken links etc)
 Rationale: Repository must be maintained in terms of content and dependencies, this must be performed before all uses to ensure uptodate and correct starting point.
-Status: signed-off
+Status: approved
 Status reason: All requirements met
+Approved by: oliver

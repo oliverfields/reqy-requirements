@@ -1,4 +1,5 @@
 Description: Must be able to choose to process requirements and packages that have status approved, elaboration or rejected just the approved ones.
 Rationale: Some users may want to see all requirements, whilst others may only be interested in what actually is required.
 Status: rejected
-Rejected reason: In the interest of understanding, all information of requirements should be available. Status will instead be clearly marked when appropriate.
+Status reason: In the interest of understanding, all information of requirements should be available. Status will instead be clearly marked when appropriate.
+Rejected by: oliver

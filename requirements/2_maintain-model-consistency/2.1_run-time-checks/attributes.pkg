@@ -1,4 +1,5 @@
 Description: What and how to check repository is syntactically correct
 Rationale: Repository must be maintained in terms of content and dependencies, this must be performed before all uses to ensure uptodate and correct starting point.
-Status: signed-off
+Status: approved
 Status reason: All requirements met
+Approved by: oliver

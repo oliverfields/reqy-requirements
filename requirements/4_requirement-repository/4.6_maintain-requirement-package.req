@@ -1,4 +1,5 @@
 Description: Must be able to maintain key-values for requirement packages.
 Rationale: Need to store this information.
-Status: signed-off
+Status: approved
+Approved by: oliver
 Status reason: Functionality implemented and verified.

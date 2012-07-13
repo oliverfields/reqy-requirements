@@ -1,4 +1,5 @@
 Description: Must be able to record a dependency from a requirements and requirement package to another package or requirement.
 Rationale: Dependencies are important for knowing why other requirements and packages exist.
-Status: signed-off
+Status: approved
+Approved by: oliver
 Status reason: Verified that repository supports dependency linking between requirements, requirement packages and to documents
