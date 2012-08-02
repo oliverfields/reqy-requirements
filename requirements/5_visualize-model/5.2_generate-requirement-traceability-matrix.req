@@ -1,4 +1,4 @@
-Description: Generate requirements tracebility matrix showing how each requirement relates to test cases and design documentation.
-Rationale: To prove all requirements are built each requirement must have a test case. To ensure each requirement has been designed (i.e. no gold plating) each requirement must have at least one design document.
+Description: Generate requirements tracebility matrix showing how each requirement relates to use cases, design documents, code references, test cases and acceptance test cases. The matrix must clearly show what requirements are complete (i.e. have at least one trace to each of the 5 types of artifacts.
+Rationale: To verify and validate that the project is complete each requirement must be documented to have a use case, design, code reference, test case and an acceptance test case associated with it. Reporting on progresss in terms of requirements fully made is meaningful to the customer and a requirement for doing EVM if applicable to the project.
 Status: implementation
-Documents: design/Requirement traceability matrix.odf
+Documents: design/Requirement traceability matrix.odt
