@@ -1,4 +1,5 @@
 Description: Must provide command line tool for working with the requirements repository.
 Rationale: Command line rules!
-Status: implementation
+Status: approved
+Approved by: oliver
 Documents: design/reqy - command line interface.odt, use-case/UC-1 Overview.dia, use-case/UC-1-1 Maintain requirements.dia

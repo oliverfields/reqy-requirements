@@ -1,4 +1,5 @@
 Description: Must be able to run check of requirements from command line and show any warnings or errors.
 Rationale: Need to ensure requirements are sound.
-Status: elaboration
+Status: approved
+Approved by: oliver
 Depends on: 2_maintain-model-consistency/2.1_run-time-checks

@@ -1,2 +1,4 @@
 Description: Application must be protable to Linux, Mac and Windows.
 Rationale: Increase adoption of requirements management tools.
+Status: postponed
+Status reason: More important to release than to have available on all platforms, fix this when features for initial version are complete.
