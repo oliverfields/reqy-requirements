@@ -1,0 +1,44 @@
+Page: Frontpage
+  Requirements for <project name>
+  <project description>
+
+  Author: <stakeholder name>
+
+  <date>
+
+  <document description>
+
+Page: Table of Contents
+  <TOC>
+
+
+Following pages: List all packages and requirements (for rejected use strike through and for postponed a light grey):
+  <Name>
+  <Description>
+  <Rationale>
+  <Note>
+
+  Status: <status>
+  Status reason: <status reason>
+
+  <Created by: <name>>
+  <Created on: <date>>
+  <Assigned to: <name>>
+  <Assigned on: <date>>
+  <Rejected by: <name>>
+  <Rejected on: <date>>
+  
+  Traces to: <links>
+  Traces from: <links>
+
+  Design documents: <docs>
+  Test cases: <docs>
+  Use cases: <docs>
+  Acceptance criteria: <docs>
+
+  Estimated effort: <value>
+  Estimated cost: <value>
+
+  Todo list: <todos>
+
+  <if children list them using same template>  
