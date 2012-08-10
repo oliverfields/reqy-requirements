@@ -2,3 +2,6 @@ Description: Requirements and packages must be able to be imported from a freemi
 Rationale: Makes it easier for non command line people to submit their requirements.
 Status: postponed
 Status reason: Not critical to first release.
+Created by: oliver
+Created on: 2012-05-11
+Assigned to: oliver
