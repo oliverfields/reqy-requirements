@@ -1,0 +1,5 @@
+Description: Generate requirement traceability matrix
+Rationale: Show supporting documentation for each requirement and package.
+Documents: design/Requirement traceability matrix.odt
+Status: approved
+Approved by: oliver

@@ -1,2 +1,4 @@
 Description: Allow easy import of initial requirements structure from helpful tools. Only inital import needs be supported, importing into an existing repository does not need to be done at this stage.
 Rationale: Often requirements start out as mind maps or spreadsheets before they make their way into reqy. Importing these inital requirements should be easy to encourage users. 
+Status: postponed
+Status reason: Not needed for MVP releas

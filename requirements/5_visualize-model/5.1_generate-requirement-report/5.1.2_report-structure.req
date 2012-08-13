@@ -1,4 +1,6 @@
 Description: Document describing requirements must be generatable from repository.
 Rationale: Need to share information from the repository with others that will need it in a easy to understand format.
-Status: implementation
 Documents: design/rmtoo_requirement_report.pdf
+Status: rejected
+Status reason: already handled by 1.3.2
+Rejected by: oliver

@@ -1,0 +1,4 @@
+Description: Produce dot file for graphical representation of traces between requirements, requirement packages and documents. 
+Rationale: Important to visually display traces between items in order to aid understanding.
+Status: approved
+Approved by: oliver

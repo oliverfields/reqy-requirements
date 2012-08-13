@@ -1,0 +1,5 @@
+Description: Generate report listing details for each requirement package and requirement in a report format suitable for distribution.
+Rationale: Need to send all requirements and their details to stakeholders that they may read and comment upon. Should be a format that is available on most OS's and can be annotaed with common tools.
+Documents: design/file-formats/Requirement-report.odt, design/file-formats/requirements_report_sketch.txt
+Status: approved
+Approved by: oliver

@@ -1,3 +1,5 @@
+Status: approved
+Approved by: oliver
 Description: List only requirements and packages that match filter criteria.
 Rationale: When working with requirements want to easily see which are e.g. approved or that need more work.
 Documents: design/reqy - command line interface.odt
