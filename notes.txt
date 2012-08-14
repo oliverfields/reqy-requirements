@@ -14,3 +14,8 @@ Tool requirements according to IREB:
 
 - Measurable requirements?
 - Requirements must be categorized and prioritized according to PMBOK, priority and category attributes?
+- Attribute for who the requirement is for, e.g. user, customer etc
+- Measure by: attribute for how the requirement should be measures, e.g. test, poll, survey etc
+- MoSCoW - Must, Should, Could, Won't attributes - http://en.wikipedia.org/wiki/MoSCoW_Method
+
+http://www.gilb.com/Requirements
