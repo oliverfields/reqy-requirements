@@ -2,3 +2,4 @@ Description: Requirements and packages must be able to be imported from a CSV fi
 Rationale: Makes it easier for non command line people to submit their requirements.
 Status: postponed
 Status reason: Not critical to first release.
+Postponed by: oliver

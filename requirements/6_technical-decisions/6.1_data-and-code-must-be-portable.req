@@ -1,4 +1,5 @@
 Description: Application must be protable to Linux, Mac and Windows.
 Rationale: Increase adoption of requirements management tools.
-Status: postponed
-Status reason: More important to release than to have available on all platforms, fix this when features for initial version are complete.
+Status: approved
+Approved by: oliver
+Status reason: Linux and Mac work out of the box, using reqy in a teminal like dos is too painful, so ok to require cygwin for windows users so they get the nice bash experience:)
