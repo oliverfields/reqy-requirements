@@ -11,3 +11,6 @@ Tool requirements according to IREB:
 - organize information
 - generate reports
 - generate documents
+
+- Measurable requirements?
+- Requirements must be categorized and prioritized according to PMBOK, priority and category attributes?
