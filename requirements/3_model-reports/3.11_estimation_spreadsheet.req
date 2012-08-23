@@ -1,4 +1,6 @@
 Description: Spreadsheet with all requirements for estimating project.
 Rationale: To ensure best estimates each requirement must be carefully considerd.
-Documents: design/project_estimation_template.xls
+Documents: design/project-estimation-template.ods
 Status: implementation
+Estimated effort: 4
+Estimated cost: 3000
