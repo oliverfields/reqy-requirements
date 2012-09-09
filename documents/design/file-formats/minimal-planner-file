@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project name="Test" project-start="20120909T000000Z" mrproject-version="2">
+  <tasks>
+    <task id="1" name="Mona" note="" work="57600" start="20120909T000000Z" end="20120912T000000Z" />
+    <task id="2" name="Mona Elisabeth" note="" work="115200" start="20120909T000000Z" end="20120912T000000Z" />
+    <task id="3" name="Mona E Thorvaldsen" note="" work="28800" start="20120909T000000Z" end="20120912T000000Z" />
+  </tasks>
+  <resources>
+    <resource id="1" name="Mona T" short-name="My" type="1" units="0" email="my@thorvis.com" note="" />
+  </resources>
+</project>
