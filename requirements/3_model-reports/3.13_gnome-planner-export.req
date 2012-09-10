@@ -2,3 +2,4 @@ Description: Export requirements in gnome planner format
 Rationale: Usefull to save typing in the setup of a project plan. Strictly a once only operation as once they are in planner they may be chopped and changed to suit the messy real world implementation. However the export should include the basic requirements and stakeholder information.
 Documents: design/file-formats/minimal-planner-file
 Status: approved
+Approved by: oliver
