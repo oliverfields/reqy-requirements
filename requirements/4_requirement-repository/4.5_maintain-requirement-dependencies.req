@@ -3,3 +3,4 @@ Rationale: Dependencies are important for knowing why other requirements and pac
 Status: approved
 Approved by: oliver
 Status reason: Verified that repository supports dependency linking between requirements, requirement packages and to documents
+Scope: n/a

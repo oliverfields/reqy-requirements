@@ -3,3 +3,4 @@ Rationale: No point making requirements that have no parents.
 Status: rejected
 Status reason: Because requirements are in a file system hiearchy no requirements can be orphans.
 Rejected by: oliver
+Scope: n/a

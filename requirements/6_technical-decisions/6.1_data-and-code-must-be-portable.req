@@ -3,3 +3,4 @@ Rationale: Increase adoption of requirements management tools.
 Status: approved
 Approved by: oliver
 Status reason: Linux and Mac work out of the box, using reqy in a teminal like dos is too painful, so ok to require cygwin for windows users so they get the nice bash experience:)
+Scope: n/a

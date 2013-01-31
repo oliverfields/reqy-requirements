@@ -3,3 +3,4 @@ Rationale: Each requirement must be testable.
 Status: rejected
 Rejected by: oliver
 Status reason: Not all requirements (or packages) have supporting documentation. Use reports to uncover which requirements do not have documentation and add links where appropriate.
+Scope: n/a

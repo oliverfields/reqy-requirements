@@ -2,3 +2,4 @@ Description: Produce dot file for graphical representation of traces between req
 Rationale: Important to visually display traces between items in order to aid understanding.
 Status: approved
 Approved by: oliver
+Scope: n/a

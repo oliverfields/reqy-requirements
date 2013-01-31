@@ -3,3 +3,4 @@ Rationale: All requirements must belong to a package.
 Status: rejected
 Status reason: File system ensures no requirement can exist outside of a package.
 Rejected by: oliver
+Scope: n/a

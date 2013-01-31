@@ -2,3 +2,4 @@ Description: Command must be run from the root repository directory or in a sub 
 Rationale: Whilst working on the repository will be within it's directories and would be a hassel to cd back to root to run commands.
 Status: approved
 Approved by: oliver
+Scope: n/a

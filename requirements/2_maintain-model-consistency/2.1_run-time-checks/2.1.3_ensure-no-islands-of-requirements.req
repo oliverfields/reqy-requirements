@@ -4,3 +4,4 @@ Status: approved
 Approved by: oliver
 Status reason: Storing requirements in the requirements directory as files and directories means this is enforced by the file system (i.e. can't hava a file/dir that does not belong to a directory)
 Documents: design/reqy - command line interface.odt
+Scope: n/a

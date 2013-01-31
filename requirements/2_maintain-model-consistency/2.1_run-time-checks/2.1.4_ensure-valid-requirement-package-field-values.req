@@ -5,3 +5,4 @@ Status: approved
 Status reason: All relevant classes comply
 Documents: design/reqy - command line interface.odt
 Note: Changed from lenient warn and flag errors, to strict halt on errors to simplify and catch errors as early as possible.
+Scope: n/a

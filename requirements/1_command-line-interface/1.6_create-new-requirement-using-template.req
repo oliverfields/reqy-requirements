@@ -2,3 +2,4 @@ Description: Must be able to create a new requirement using a standard template.
 Rationale: A requirement has many fields, using a template makes it easier for users.
 Status: approved
 Approved by: oliver
+Scope: n/a
