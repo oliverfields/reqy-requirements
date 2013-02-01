@@ -1,0 +1,5 @@
+Description: Allow localization of artifacts using gettext standard.
+Rationale: Artifacts may be shared among project members who might prefer them in languages other than English.
+Status: approved
+Approved by: oliver
+Scope: Only artifacts need to be localized, tools, error messages etc will remain in English. Locale will be taken from users shell environment setting (e.g. LANG).
